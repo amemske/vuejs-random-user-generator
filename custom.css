@@ -1,0 +1,11 @@
+.female{
+    border:3px solid pink;
+    background-color: pink;
+    color: #333;
+}
+
+.male{
+    border:3px solid steelblue;
+    background-color:steelblue ;
+    color: #fff;
+}
